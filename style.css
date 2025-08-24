@@ -102,7 +102,7 @@ table tr th {
 
 table tr:last-child th,
 table tr:last-child td {
-    border-bottom: n0ne;
+    border-bottom: none;
 }
 
 @media screen and (max-width: 575px) {
