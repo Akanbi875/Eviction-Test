@@ -5,7 +5,7 @@ body {
     display: grid;
     color: hsl(24, 5%, 18%);
     place-items: start center;
-    font-family: 400;
+    font-weight: 400;
 }
 
 .test {
@@ -19,7 +19,7 @@ body {
 }
 
 p {
-    font-size: 16px;
+    font-size: 16px;  
     line-height: 1.5;
 }
 
@@ -112,7 +112,7 @@ table tr:last-child td {
     }
 
     .test {
-        width: 100%;
+        width: 100%;  
         margin: 0;
         padding: 0;
         border-radius: 0;
